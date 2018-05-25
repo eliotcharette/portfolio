@@ -1,0 +1,27 @@
+li {
+  line-height: 20px;
+  font-size: 20px;
+display: inline-block;
+font-family: monospace;
+}
+ul {
+  text-align: center;
+}
+.title{
+  text-align: center;
+  font-size: 40px;
+}
+.quote{
+  text-align: center;
+  padding-left: 190px;
+  padding-right: 190px;
+  font-family: monospace;
+}
+.border{
+  border: 1px solid lightblue;
+  height: 400px;
+}
+img{
+  height: 360px;
+  width: 90%;
+}
