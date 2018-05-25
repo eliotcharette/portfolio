@@ -23,11 +23,6 @@ ul {
   font-size: 40px;
   background-color: lightblue;
 }
-.quote{
-  text-align: center;
-  padding-left: 190px;
-  padding-right: 190px;
-  font-family: monospace;
 }
 .border{
   border: 1px solid lightblue;
@@ -36,4 +31,26 @@ ul {
 img{
   height: 360px;
   width: 90%;
+}
+.bout{
+  height: 600px;
+  width: 85%;
+  padding: 10px;
+}
+.me{
+  font-size: 40px;
+}
+.am{
+  text-align: left;
+  font-family: monospace;
+  font-size: 17px;
+  padding: 10px;
+}
+.info{
+  font-size: 17px;
+  padding: 25px;
+}
+.bg{
+  height: 300px;
+  width: 100%;
 }
